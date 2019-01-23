@@ -1,10 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Asteroids",
-"dataUrl": "build4_2.data.unityweb",
-"asmCodeUrl": "build4_2.asm.code.unityweb",
-"asmMemoryUrl": "build4_2.asm.memory.unityweb",
-"asmFrameworkUrl": "build4_2.asm.framework.unityweb",
+"dataUrl": "Asteroid-Game.data.unityweb",
+"wasmCodeUrl": "Asteroid-Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Asteroid-Game.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
