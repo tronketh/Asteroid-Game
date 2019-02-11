@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b0d0990275b90f74092eab8e9c3c6671
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextAsteroid: {instanceID: 0}
+  - anim: {fileID: 7400000, guid: 58cf67d046fe258489662d882f108b9d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
